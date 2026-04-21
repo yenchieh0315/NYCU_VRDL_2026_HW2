@@ -31,5 +31,6 @@ python predict_v6.py
 ```
 
 ## Performance Snapshot
-![Leaderboard](CodeBench_competition.png)
+![Leaderboard]<img width="1183" height="55" alt="螢幕擷取畫面 2026-04-21 234902" src="https://github.com/user-attachments/assets/0a6f6d95-0bf7-4862-9120-a76d5748ecfe" />
+
 ```
